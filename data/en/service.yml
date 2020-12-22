@@ -1,0 +1,82 @@
+########################### about service #############################
+about:
+  enable : true
+  title : "Mission"
+  content : "We make digital content, organize online communities, offer freelance services and more. The core of our company is made of talented and competent individuals who will offer the best service in the business. We serve anyone and any community requiring the services we detailed below. We strive to provide competent service at worst and foremost service at best to any of our customers.  Our values are always to serve to our very best potential and go even further. Give us a chance and you will not be disappointed."
+  image : "images/company/Company.png"
+
+
+########################## featured service ############################
+featured_service:
+  enable : true
+  service_item:
+    # featured service item loop
+    - name : "Graphics Design"
+      icon : "ion-edit"
+      color : "primary"
+      content : "One of the corner stones to an organization’s success is the right branding. That’s why we will take a lot of time analyzing your potential customer base."
+      
+    # featured service item loop
+    - name : "Product Branding"
+      icon : "ion-arrow-graph-up-right"
+      color : "primary-dark"
+      content : "Blogging, Vlogging, podcasts, websites, social media and email are all digital marketing strategies. A well-rounded digital marketing strategy uses a combination of these strategies."
+      
+    # featured service item loop
+    - name : "Tournaments"
+      icon : "ion-aperture"
+      color : "primary-darker"
+      content : "Yaltopia is involved in organizing several tournaments on a variety of games.Most recently, Yaltopia has organized a Rainbow Six Siege tournament which became a huge success. "
+
+      
+############################# Service ###############################
+service:
+  enable : true
+  title : "Our Services"
+  description : "“The best way to find yourself is to lose yourself in the service of others.”
+</br>  Mahatma Gandhi"
+  service_item:
+    # service item loop
+    - icon : ion-ios-mic #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Kolo Podcast
+      content: "Grab a cup coffee and let’s chat. Sharing our experiences and stories to amuse you."
+
+    # service item loop
+    - icon : ion-trophy #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Tournament 
+      content: "Yaltopia is involved in organizing several tournaments on a variety of games. "
+
+    # service item loop
+    - icon : ion-videocamera #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Video Reviews
+      content: "Video games, movies, anime, pop-culture we got you covered. Video game reviews are incoming so stay tuned."
+
+    # service item loop
+    - icon : ion-eye #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Community Content
+      content: "There is no place that we know of that show cases the epic, and face palm moments of African game play. We are here to fill that void!"
+
+    # service item loop
+    - icon : ion-android-arrow-dropright-circle #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Video Editing 
+      content: "Editing several podcasts, we create ourselves and multiple review we do across all our platforms. If you want some elevation on the content contact us!"
+
+    # service item loop
+    - icon : ion-android-color-palette #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Graphics Desgin
+      content: "One of the corner stones to an organization’s success is the right branding. That’s why we will take a lot of time analyzing your potential customer base."
+
+    # service item loop
+    - icon : ion-android-people #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Community Management  
+      content: "Who are we without our community, businesses lose their identity without their communities. That’s why we believe in being involved with our community as much as possible. "
+
+    # service item loop
+    - icon : ion-arrow-graph-up-right #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Digital Marketing 
+      content: "Blogging, Vlogging, Podcasts, Websites, Social Media and mail are all digital marketing strategies. A well-rounded digital marketing strategy uses a combination of these strategies."
+      
+############################# call to action #################################
+cta:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"

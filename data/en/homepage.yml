@@ -1,0 +1,100 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/Slider.png"
+  bg_overlay : true
+  title : "Community Organizer <br/> & Entertainment Hub "
+  content : "We love the ethiopian community and the work we do.We work closely with our clients, and community to deliver the best possible solutions for their needs."
+  button:
+    enable : true
+    label : "Discover Our Project"
+    link : "video"
+
+############################# About #################################
+about:
+  enable : true
+  title : "About Us"
+  description : "“Happiness can be found even in the darkest of times, if one only remembers to turn on the light.”  Dumbledore"
+  content : "A friendship that spans decades, and still keeps on going. A bunch of guys that like computers, coding, designing, gaming, and movies. Bunch of guys who lose their temper here and there manifest in the abuse of keyboards and mouses mostly due to broken dreams (Journey to Plat).  As a group we always appreciated the fact that we were able to find each other to discuss about things we like in detail. That was the huge drive behind the creation of this platform, connect with us and other likeminded people here."
+  image : "images/wrapper1.png"
+
+
+######################### Portfolio ###############################
+portfolio:
+  enable : true
+  bg_image : "images/feature.png"
+  title : "May the Force be with You!"
+  content : "
+ #KappaAngles , KuntaSensie , Kolo Podcast , #Melata , Vaseline Man .. and many more. Moments like these are what we are about even though some came at the expense of our good old friends. It is all done for all of you to enjoy the competitive experience, and sharing our personalities with you guys. Even though the tournament happened during a terrible time, our community has risen, we hope something positive has come out of it.  We hope to continue on with this journey and bring you content that can bring joy to your day. Reinforced with a bright day you will tackle whatever is in front of you knowing that every week we got your back when it is time to relax. 
+
+
+
+ Be sure to bookmark this website and turn on post notifications on our YouTube channel so you don’t miss a thing.
+"
+  button:
+    enable : true
+    label : "Our Works"
+    link : "video"
+
+
+############################# Service ############################
+service:
+  enable : true
+  # service content comes from "data/*/service.yml" file
+
+
+############################ call to action ###########################
+cta:
+  enable : true
+  bg_image : "images/CTA.png"
+  title : "We design delightful digital experiences."
+  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  button:
+    enable : true
+    label : "Tell Us Your Story"
+    link : "contact"
+
+############################# Funfacts ###############################
+funfacts:
+  enable : true
+  title : "Our Socials"
+  description : "Help us reach more people by checking out our socials and give us a follow. Be apart of this growing community , and interact with us."
+  funfact_item:
+    # funfacts item loop
+    - icon : "ion-social-instagram-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Instagram"
+      count : "10"
+      
+    # funfacts item loop
+    - icon : "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Twitter"
+      count : "20"
+      
+    # funfacts item loop
+    - icon : "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Facebook"
+      count : "50"
+      
+    # funfacts item loop
+    - icon : "ion-social-youtube-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Youtube"
+      count : "130"
+
+  testimonial_slider:
+    # testimonial item loop
+    - name : "Franso"
+      image : "images/clients/Avatar.png"
+      designation : "Frag Squad"
+      content : "I enjoyed the video more than the actual match."
+                
+    # testimonial item loop
+    - name : "Elfaz B Seifu"
+      image : "images/clients/Avatar 2.png"
+      designation : "Community Member"
+      content : "Lmao bro best commentators ever!"
+                
+    # testimonial item loop
+    - name : ""
+      image : "images/clients/Avatar 3.png"
+      designation : "Community Member"
+      content : "Dude why are this match previews lit !!!! Keep it up guys"

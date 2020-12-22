@@ -1,0 +1,13 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/feature_screen.jpg"
+  bg_overlay : true
+  title : "Yaltopia Entertainment <br> YouTube Channel"
+  content : "We love the Web and the work we do."
+  button:
+    enable : true
+    label : "Visit our Channel"
+    link : https://www.youtube.com/channel/UCUbhCDAPBhUBweSzNMohOmw
+
+

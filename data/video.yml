@@ -1,0 +1,21 @@
+enable    : true
+title     : look at our currently released videos
+description: >
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
+image     : images/about/about-1.jpg
+Video:
+  - Thumbvideo   : images/VideoThumbnails/vid1.jpg
+    URLvideo     : https://www.youtube.com/embed/XKQYzo55P0M
+    title        : Quarantine Tournament| One Taped back to ሸማቾ ማሕበር | Plats Exposed! |MOTM- Oregon
+    
+  - Thumbvideo   : images/VideoThumbnails/vid2.jpg
+    URLvideo     : https://www.youtube.com/embed/G3d8_b4qMgU
+    title        : Quarantine Tournament| Hammer of Justice & Toothless Wolves? |MOTM- Oregon
+    
+  - Thumbvideo   : images/VideoThumbnails/vid3.jpg
+    URLvideo     : https://www.youtube.com/embed/k_Ysj5DPj5A
+    title        : HOUSE COPPER vs WOLF RIDER | Two Big Forces Collision! | Match Preview
+    
+  - Thumbvideo   : images/VideoThumbnails/vid4.jpg
+    URLvideo     : https://www.youtube.com/embed/Zjh6r2RxZKs
+    title        : እንቁጣጣሽ Special & Old Movies | KOLO PODCAST| Episode 2

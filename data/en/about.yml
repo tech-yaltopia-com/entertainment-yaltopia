@@ -1,0 +1,104 @@
+################################## About #####################################
+about:
+  enable : true
+  image : "images/company/about.jpg"
+  title : "We strive to be the best and <br> make awesome work."
+  content : "A friendship that spans decades, and still keeps on going. A bunch of guys that like computers, coding, designing, gaming, and movies. Bunch of guys who lose their temper here and there manifest in the abuse of keyboards and mouses mostly due to broken dreams (Journey to Plat).  As a group we always appreciated the fact that we were able to find each other to discuss about things we like in detail. That was the huge drive behind the creation of this platform, connect with us and other likeminded people here."
+
+  button:
+    enable : false
+    label : "Download Company Profile"
+    link : "#"
+
+  funfacts:
+    # funfacts loop
+    - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Completed Projects"
+      count : "349"
+      
+    # funfacts loop
+    - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Lines Of Code"
+      count : "35000"
+      
+    # funfacts loop
+    - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Satisfied Customer"
+      count : "70"
+      
+    # funfacts loop
+    - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Awards Winner"
+      count : "10"
+      
+    # funfacts loop
+    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Satisfied Customer"
+      count : "75"
+      
+    # funfacts loop
+    - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Awards Winner"
+      count : "20"
+      
+################################ feature #####################################
+features:
+  enable : true
+  title : "We are indepented Design & Development Agency"
+  feature_item:
+    # feature item loop
+    - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Digital Marketing"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      
+    # feature item loop
+    - icon : "ion-ios-people-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Community Management"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      
+    # feature item loop
+    - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Tournament"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      
+    # feature item loop
+    - icon : "ion-ios-recording-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Animation and Editing"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      
+    # feature item loop
+    - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Graphics Desgin"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      
+    # feature item loop
+    - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Branding"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    
+
+#################################### testimonial & mission vision #######################################
+testimonial:
+  enable : true
+  # testimonial content comes from "data/*/homepage.yml" file
+
+mission_vision:
+  enable : true
+  tabs:
+    # tab item loop
+    - name : "Vision"
+      content : "To become the most compelling digital content hubs in the country. We envision a bright future for our organization and our country. The digital age will release our country from its shackles and propel us into a future of prosperity, we plan to give a helping hand in this regard. Our hopes entail a bright future for our country and our organization, we strive to provide the best service in the country. We plan to be a digital hub of content and offer much more. We aspire to fully digitize our country and its infrastructures and help propel it into the next stage."
+      
+    # tab item loop
+    - name : "Mission"
+      content : "We make digital content, organize online communities, offer freelance services and more. The core of our company is made of talented and competent individuals who will offer the best service in the business. We serve anyone and any community requiring the services we detailed above. We strive to provide competent service at worst and foremost service at best to any of our customers.  Our values are always to serve to our very best potential and go even further. Give us a chance and you will not be disappointed."
+      
+    # tab item loop
+    - name : "Approach"
+      content : "Our approach is one of smard work as well like to call it (smart and hard work) and competence above all. We do not say we will do something unless we are fully aware, we can deliver it to the best of qualities. We do not take lightly the responsibility of delivering services to our community."
+
+
+############################# call to action #################################
+cta:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"
