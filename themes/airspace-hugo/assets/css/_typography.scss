@@ -1,0 +1,58 @@
+// Fonts 
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:300,400,500,600);
+@import url(https://fonts.googleapis.com/css?family=Volkhov:400italic);
+
+
+
+
+body {
+  line-height: 1.5;
+  font-family: $primary-font;
+  -webkit-font-smoothing: antialiased;
+  background-color:#131313;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $primary-font;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+}
+
+h1 {
+  font-size: 40px;
+  color: whitesmoke;
+}
+
+h2 {
+  font-size: 28px;
+  color: darkgray;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 18px;
+  color:#927cd4;
+}
+
+p {
+  color:whitesmoke;
+  font-size: 15px;
+  font-family: $primary-font;
+}

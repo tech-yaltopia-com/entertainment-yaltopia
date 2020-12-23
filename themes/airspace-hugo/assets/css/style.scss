@@ -1,0 +1,123 @@
+@import 'variables.scss';
+
+@import 'mixins.scss';
+
+@import 'media-query.scss';
+
+@import 'typography.scss';
+
+@import 'common.scss';
+
+@import 'main.scss';
+
+@import 'templates/_header.scss';
+
+@import 'templates/_navigation.scss';
+
+@import 'templates/_slider.scss';
+
+@import 'templates/_call-to-action.scss';
+
+@import 'templates/_service.scss';
+
+@import 'templates/_feature.scss';
+
+@import 'templates/_portfolio.scss';
+
+@import 'templates/_testimonial.scss';
+
+@import 'templates/_contact.scss';
+
+@import 'templates/_pricing.scss';
+
+@import 'templates/_products.scss';
+
+@import 'templates/_single-product.scss';
+
+@import 'templates/_clients.scss';
+
+@import 'templates/_about.scss';
+
+@import 'templates/_instagram.scss';
+
+@import 'templates/_user-dashboard.scss';
+
+@import 'templates/_single-post.scss';
+
+@import 'templates/_backgrounds.scss';
+
+@import 'templates/_blog-sidebar.scss';
+
+@import 'templates/_blog.scss';
+
+@import 'templates/_coming-soon.scss';
+
+@import 'templates/_shopping.scss';
+
+@import 'templates/_404.scss';
+
+@import 'templates/_footer.scss';
+
+.hundred {
+  width:100%;
+  height:100%;
+}
+
+.vid {
+  padding:5%;
+  border-width: 0px;
+}
+
+.video-player iframe {
+  width: 100%;
+  height: 100%;
+}
+
+.video-player {
+  padding-color: #fff;
+  
+}
+
+.video-player .play-icon {
+  position: absolute;
+  left: 0;
+  top: -5%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  border: 0px;
+}
+
+.video-player .play-icon:hover i {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.video-player .play-icon i {
+  margin-left: 3px;
+  height: 80px;
+  width: 80px;
+  border-radius: 50px;
+  transition: -webkit-transform 300ms ease;
+  transition: transform 300ms ease;
+  transition: transform 300ms ease, -webkit-transform 300ms ease;
+  background: #fff;
+  color: #655e7a;
+  line-height: 80px;
+  font-size: 30px;
+  margin-left: 5px;
+  
+}
+
+.mt-0 {
+  margin-top: 0px;
+}

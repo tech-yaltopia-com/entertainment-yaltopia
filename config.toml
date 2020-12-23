@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "yaltopia-entertainment.netlify.com"
-title = "Airspace | Creative Agency Hugo Template"
+baseURL = "Yaltopia Entertainment"
+title = "Yaltopia Entertainment"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
@@ -26,12 +26,12 @@ unsafe = true
 # CSS Plugins
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
-page = "/"
+page = ""
 attributes = "media='screen'"
 
 [[params.plugins.css]]
 link = "plugins/Ionicons/css/ionicons.min.css"
-page = "/"
+page = ""
 attributes = ""
 
 [[params.plugins.css]]
@@ -177,12 +177,12 @@ weight = 1
 
 
 [[Languages.en.menu.main]]
-name = "Videos"
+name = "Video"
 URL = "video"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Blogs & News"
+name = "Blog"
 URL = "blog"
 weight = 3
 
@@ -193,7 +193,7 @@ weight = 6
 
 [[Languages.en.menu.main]]
 name = "Tournament"
-URL = "https://www.toornament.com/"
+URL = "https://www.toornament.com/en_US/tournaments/4121204366826291200/registration/"
 weight = 4  
 
 [[Languages.en.menu.main]]
@@ -283,38 +283,38 @@ hasChildren = true
   URL = "service"
   
 [[Languages.fr.menu.main]]
-name = "Contact"
+name = "contact"
 URL = "contact"
 weight = 6
 
 
 # footer menu
 [[Languages.fr.menu.footer]]
-name = "About"
+name = "about"
 URL = "about"
 weight = 1
 
 [[Languages.fr.menu.footer]]
-name = "Project"
+name = "project"
 URL = "project"
 weight = 2
 
 [[Languages.fr.menu.footer]]
-name = "Service"
+name = "service"
 URL = "service"
 weight = 3
 
 [[Languages.fr.menu.footer]]
-name = "Pricing"
+name = "pricing"
 URL = "pricing"
 weight = 4
 
 [[Languages.fr.menu.footer]]
-name = "FAQ"
+name = "faq"
 URL = "faq"
 weight = 5
 
 [[Languages.fr.menu.footer]]
-name = "Contact"
+name = "contact"
 URL = "contact"
 weight = 6
